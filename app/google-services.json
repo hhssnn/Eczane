@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "880388300466",
+    "firebase_url": "https://eczane-153217.firebaseio.com",
+    "project_id": "eczane-153217",
+    "storage_bucket": "eczane-153217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880388300466:android:af599dbb924d8e21",
+        "android_client_info": {
+          "package_name": "com.hsncmz.eczane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880388300466-bq42jd40tegecg6altvkdoer3qlur9oi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hsncmz.eczane",
+            "certificate_hash": "84FDC713ACD077BF708F0D74F48C9424CF938104"
+          }
+        },
+        {
+          "client_id": "880388300466-c1t2q1bjeieaod52irrkthcqsgpa4a6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDFdzLjZKEIAlFv0SFRgurMMzZM3hUZlw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880388300466-c1t2q1bjeieaod52irrkthcqsgpa4a6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
